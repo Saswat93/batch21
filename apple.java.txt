@@ -1,4 +1,4 @@
-public class JavaMathExample1    
+public class Saswat  
 {    
     public static void main(String[] args)     
     {    
